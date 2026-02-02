@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white"/>
 </p>
 
 ---
