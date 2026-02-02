@@ -1,5 +1,10 @@
 # My First Repository
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white"/>
+</p>
+
 ---
 
 ## 소개
@@ -44,10 +49,10 @@
 
 ## TODO
 
-- [] README 스타일 개선
-- [] 간단한 예제 코드 추가
-- [] 디렉터리 구조 정리
-- [] 주제 확정 여부 검토
+- [ ] README 스타일 개선
+- [ ] 간단한 예제 코드 추가
+- [ ] 디렉터리 구조 정리
+- [ ] 주제 확정 여부 검토
 
 ```md
 > 개인 연습 및 GitHub 사용 경험을 쌓기 위해 작성된 레포지토리입니다.
