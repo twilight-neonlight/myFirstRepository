@@ -2,18 +2,12 @@
 
 ---
 
-## 📌 소개
+## 소개
 
 이 레포지토리는 GitHub 레포지토리 관리와 README 작성에 익숙해지기 위한 개인 연습용 공간으로 만들어졌습니다.
 
 기능 추가, 구조 변경, 문서 수정 등을 자유롭게 시도하며  
 점진적으로 개선해 나갈 예정입니다.
-
-This repository is a personal practice space created to become familiar with  
-GitHub repository management and README writing.
-
-Various features, structural changes, and documentation updates will be  
-freely tested and gradually improved over time.
 
 ---
 
@@ -22,18 +16,26 @@ freely tested and gradually improved over time.
 아래 항목들은 실제 완성도를 목표로 하기보다는  
 구현 및 문서화 연습을 목적으로 추가됩니다.
 
-- 기본적인 프로젝트 구조 구성
-- README 문서 작성 및 수정 연습
-- Git / GitHub workflow 연습
-- 간단한 코드 실험
-- 기능 추가 및 제거 테스트
-- 커밋 메시지 작성 규칙 연습
+- 기본적인 프로젝트 구조 구성  
+  Basic project structure setup
+
+- README 문서 작성 및 수정 연습  
+  README writing and editing practice
+
+- Git / GitHub workflow 연습  
+  Git / GitHub workflow practice
+
+- 간단한 코드 실험  
+  Simple code experiments
+
+- 기능 추가 및 제거 테스트  
+  Feature addition and removal testing
+
+- 커밋 메시지 작성 규칙 연습  
+  Commit message convention practice
 
 ---
 
-## 🛠️ 사용 방법 (연습용)
-
-```bash
-git clone https://github.com/username/my-first-repository.git
-cd my-first-repository
+```md
+Personal practice repository for learning GitHub and README documentation.
 
