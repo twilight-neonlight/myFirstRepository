@@ -13,29 +13,24 @@
 
 ## ✨ 연습용 기능 목록
 
-아래 항목들은 실제 완성도를 목표로 하기보다는  
+아래 항목들은 실제 완성도보다는  
 구현 및 문서화 연습을 목적으로 추가됩니다.
 
 - 기본적인 프로젝트 구조 구성  
-  Basic project structure setup
 
 - README 문서 작성 및 수정 연습  
-  README writing and editing practice
 
 - Git / GitHub workflow 연습  
-  Git / GitHub workflow practice
 
 - 간단한 코드 실험  
-  Simple code experiments
 
 - 기능 추가 및 제거 테스트  
-  Feature addition and removal testing
 
 - 커밋 메시지 작성 규칙 연습  
-  Commit message convention practice
 
 ---
 
 ```md
-Personal practice repository for learning GitHub and README documentation.
+> 개인 연습 및 GitHub 사용 경험을 쌓기 위해 작성된 레포지토리입니다.
+
 
