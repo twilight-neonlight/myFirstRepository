@@ -42,6 +42,7 @@ My-First-Repository/
 ├─ src/
 │  └─ .gitkeep        # 빈 폴더 유지를 위한 파일
 ├─ HelloWorld.py      # 간단한 Python 테스트 파일
+├─ HelloWorld.java    # java 테스트 파일
 └─ README.md          # 프로젝트 설명 문서
 ```
 
